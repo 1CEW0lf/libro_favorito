@@ -124,6 +124,8 @@ plt.tight_layout()
 
 # Guardar imagen
 plt.savefig("imagenes/espacio_vectorial.png")
+plt.savefig("imagenes/espacio_bow.png")
+plt.savefig("imagenes/espacio_tfidf.png")
 
 plt.show()
 
